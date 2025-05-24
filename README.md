@@ -1,8 +1,12 @@
 ## Description
 Predicting Liver Cirrhosis Stage using Machine Learning Models
+
 • Logistic Regression
+
 • K-Nearest Neighbors (KNN)
+
 • Decision Tree
+
 • Random Forest
 
 ## Collaborators:
