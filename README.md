@@ -12,6 +12,6 @@ Predicting Liver Cirrhosis Stage using Machine Learning Models
 ## Collaborators:
 • Ong Zheng He
 
-• Jason Tang Kwong Wee
+• Jason Tang Kwong Wee https://github.com/jasontang718
 
 • Wong Cheng Ze
